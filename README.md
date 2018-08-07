@@ -1,3 +1,3 @@
 # getskills
 
-branch &&
+branch && new
